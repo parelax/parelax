@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="img/logo.png">
+  <img src="github/logo.png">
   <h3 align="center">Parelax</h3>
 
   <p align="center">
